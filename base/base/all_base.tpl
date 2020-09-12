@@ -19,6 +19,9 @@ rules: ~
 Proxy: ~
 Proxy Group: ~
 Rule: ~
+
+goes here
+
 {% endif %}
 
 {% endif %}
